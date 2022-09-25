@@ -1,50 +1,50 @@
 [
     {
         "id": 1,
-        "name": "React Retreat",
-        "image": "https://github.com/kpehl/react-retreat/raw/main/docs/react-retreat.png",
-        "github": "https://github.com/kpehl/react-retreat",
-        "deploy": "https://react-retreat.herokuapp.com/",
-        "topics": "Reactjs, Creat-React-App service worker, GraphQl, Redux, JWT Authentication, ReactStrap, node, express-session, jawsdb, mongodb, mongoose"
+        "name": "Watch It Later",
+        "image": "https://media3.giphy.com/media/dPz0Wy0uncu1R7E0fF/giphy.gif?cid=790b76118ccd9d33863742e2bec123067dc7bb4c5ee5311c&rid=giphy.gif&ct=g",
+        "github": "https://github.com/cnohilly/watch-it-later",
+        "deploy": "https://watch-it-later.herokuapp.com/",
+        "topics": "Node.js, Express.js, Handlebars.js, MySQL, Sequalize, Bcrypt, Axios, Bulma"
     },
     {
         "id": 2,
-        "name": "Week In View",
-        "image": "https://github.com/kpehl/week-in-view/raw/main/media/week-in-view.png",
-        "github": "https://github.com/kpehl/week-in-view",
-        "deploy": "https://rocky-mountain-95430.herokuapp.com/",
-        "topics": "node, sequelize, handlebars, express-session, jawsdb, mysql, model-view-controller, dotenv"
+        "name": "Movie Madness",
+        "image": "https://github.com/ianzyvith/Group1FrontEndProject/raw/main/assets/images/Screen%20Shot%202022-06-23%20at%203.50.53%20PM.png",
+        "github": "https://github.com/ianzyvith/Group1FrontEndProject",
+        "deploy": "https://ianzyvith.github.io/Group1FrontEndProject/",
+        "topics": "HTML, CSS, Javascript"
     },
     {
         "id": 3,
-        "name": "Tech Blog",
-        "image": "https://github.com/fondofhats/tech-blog/raw/main/tech-blog.png",
-        "github": "https://github.com/fondofhats/tech-blog",
-        "deploy": "https://foh-tech-blog.herokuapp.com/",
-        "topics": "node, sequelize, handlebars, express-session, jawsdb, mysql, model-view-controller, dotenv"
+        "name": "Note Taker",
+        "image": "https://github.com/ianzyvith/IanZyvithNoteTaker/raw/main/public/assets/images/Untitled_%20Jul%2021%2C%202022%2011_42%20PM.gif",
+        "github": "https://github.com/ianzyvith/IanZyvithNoteTaker",
+        "deploy": "https://fathomless-taiga-44910.herokuapp.com/notes",
+        "topics": "Node.js, Express.js"
     },
     {
         "id": 4,
         "name": "Weather Dashboard",
-        "image": "https://github.com/fondofhats/weather-dashboard/raw/master/weather-dashboard.png",
-        "github": "https://github.com/fondofhats/weather-dashboard",
-        "deploy": "https://fondofhats.github.io/weather-dashboard/",
-        "topics": "moment.js, javascript, jQuery, localStorage, API"
+        "image": "https://github.com/ianzyvith/IanZyvithWeatherDashboard/raw/main/assets/images/Screen%20Shot%202022-06-16%20at%201.09.19%20PM.png",
+        "github": "https://github.com/ianzyvith/IanZyvithWeatherDashboard",
+        "deploy": "https://ianzyvith.github.io/IanZyvithWeatherDashboard/",
+        "topics": "Moment.js, Javascript, JQuery, API"
     },
     {
         "id": 5,
-        "name": "Budget Tracker",
-        "image": "https://github.com/fondofhats/pwa-budget-tracker/raw/main/docs/pwa-budget-tracker.png",
-        "github": "https://github.com/fondofhats/pwa-budget-tracker",
-        "deploy": "https://pwa-budget-traker.herokuapp.com/",
-        "topics": "node, express, javascript, mongoDB, mongoose, nodemon"
+        "name": "Work Day Scheduler",
+        "image": "https://github.com/ianzyvith/IanZyvithWorkDayScheduler/raw/main/assets/images/Screen%20Shot%202022-06-09%20at%2011.33.43%20AM.png",
+        "github": "https://github.com/ianzyvith/IanZyvithWorkDayScheduler",
+        "deploy": "https://ianzyvith.github.io/IanZyvithWorkDayScheduler/",
+        "topics": "HTML5, CSS, Javascript, JQuery, Bootstrap"
     },
     {
         "id": 6,
-        "name": "Work Day Scheduler",
-        "image": "https://github.com/fondofhats/workday-scheduler/raw/master/workday-scheduler.png",
-        "github": "https://github.com/fondofhats/workday-scheduler",
-        "deploy": "https://fondofhats.github.io/workday-scheduler/",
-        "topics": "HTML5, CSS, Javascript, JQuery, Bootstrap"
+        "name": "React Portfolio",
+        "image": "",
+        "github": "https://github.com/ianzyvith/IanZyvithReactPortfolio",
+        "deploy": "",
+        "topics": "React, Node.js, Jest, Bootstrap"
     }
 ]
