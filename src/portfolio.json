@@ -44,7 +44,7 @@
         "name": "React Portfolio",
         "image": "https://github.com/ianzyvith/IanZyvithReactPortfolio/raw/main/src/assets/Screen%20Shot%202022-09-25%20at%207.29.52%20PM.png",
         "github": "https://github.com/ianzyvith/IanZyvithReactPortfolio",
-        "deploy": "",
+        "deploy": "http://ianzyvith.github.io/IanZyvithReactPortfolio",
         "topics": "React, Node.js, Jest, Bootstrap"
     }
 ]
