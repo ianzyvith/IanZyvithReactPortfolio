@@ -1,6 +1,5 @@
-
-
 import React from 'react';
+import ProfilePic from '../../assets/bio-pic.jpeg';
 
 function About() {
 
@@ -9,19 +8,20 @@ function About() {
             <h2 class="top-title">About Me</h2>
             <hr></hr>
             <div>
-                <img class="mb-5" id="avatar" src="../../assets/bio-pic.jpeg" alt="Ian-Zyvith" />
+                <img class="mb-5" id="avatar" src={ProfilePic} alt="Ian Zyvith" />
 
                 <p>
-                Seasoned programmer with over 20 years of experience incorporating user and business requirements into cost-effective, 
-                secure and user-friendly solutions known for scalability and durability. 
+                A quick learning and detail oriented individual who is looking to dive head first into the coding world. 
                 </p>
                 <p>
-                Strong knowledge of commercial and open source CMS development 
-                software/database engineering tools.
+                A degree in Mechanical Engineering from Rutgers University.
                 </p>
                 <p>
-                Proven leader and consultant; drive system architecture decisions and lead projects from concept through the release process.
+                Years of academic and athletic experience leads to strong leadership and cooperative skills.
                 </p>
+                <br></br>
+                <br></br>
+                <br></br>
             </div>
         </section>
     )

@@ -24,6 +24,11 @@ main {
   box-sizing: border-box;
 }
 
+html,
+body {
+  min-height: 100%;
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -44,8 +49,9 @@ h4,
 h5,
 h6 {
   font-weight: 500;
-  margin: 5px 0;
+  padding: 5px 0;
   line-height: 1.25;
+  color: #8c54ff;
 }
 
 h1 {
@@ -54,7 +60,6 @@ h1 {
 
 h2 {
   font-size: 2rem;
-  color: var(--darker);
 }
 
 h3 {
@@ -75,6 +80,7 @@ h6 {
 
 p {
   margin-top: 0;
+  color: white;
 }
 
 a {
@@ -104,7 +110,6 @@ button {
   outline: none;
   cursor: pointer;
   margin: 0 1px;
-  background-color: var(--secondary);
 }
 
 button:hover {
@@ -122,7 +127,7 @@ img {
 
 #avatar {
   max-height:300px;
-  border-radius: 300px;
+  border-radius: 50px;
   }
 
 span[role="img"] {
@@ -149,6 +154,10 @@ input:focus {
 
 li {
   list-style: none;
+}
+
+.navbar {
+  background-image: linear-gradient(to left, rgb(27 20 41), rgb(20 15 35));
 }
 
 .nav-font {
@@ -232,6 +241,10 @@ textarea {
   margin-bottom: var(--spacing-five);
 }
 
+.mt-5 {
+  color: white;
+}
+
 .px-1 {
   padding-right: var(--spacing-one);
   padding-left: var(--spacing-one);
@@ -313,6 +326,7 @@ textarea {
 .project-icon {
   background-color: var(--white);
   padding: 5px;
+  height: 50px;
 }
 
 .topics {
@@ -326,10 +340,23 @@ textarea {
   display: flex; 
   align-items: center; 
   justify-content: center; 
+  background-image: linear-gradient(to left, rgb(27 20 41), rgb(20 15 35));
 } 
 
-.icon {
+.gitIcon {
+  margin: 20px;
   padding: 10px;
+  height: 75px;
+  background-color: white;
+  border-radius: 75px;
+}
+
+.linkIcon {
+  margin: 20px;
+  padding: 10px;
+  height: 75px;
+  background-color: white;
+  border-radius: 15px;
 }
 
 
