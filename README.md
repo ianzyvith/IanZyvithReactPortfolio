@@ -7,3 +7,7 @@ To use our new knowledge of React to create a brand new portfolio page that allo
 # Screenshot
 
 ![alt='screenshot'](./src/assets/Screen%20Shot%202022-09-25%20at%207.29.52%20PM.png)
+
+# Link
+
+http://ianzyvith.github.io/IanZyvithReactPortfolio
