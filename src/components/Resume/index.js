@@ -4,23 +4,16 @@ function Resume() {
   return (
     <section class="container">
       <h2 className="top-title">Resume</h2>
-      <hr></hr>
 
       <div>
         <div class="mt-5">
-          <h2 className="top-title">Michael Giddings</h2>
-          <ul>
-            <li>
-              Core competencies in enterpirse content management, full-stack web
-              development, data architecture, and managing integrations.
-            </li>
-          </ul>
 
           <p class="mt-5">
-            <a href="https://www.linkedin.com/in/michaelgiddings/">
+            <a href="https://www.linkedin.com/in/ian-zyvith-688321206/">
               <img
-                src="https://img.icons8.com/fluent/48/000000/linkedin.png"
-                alt="inkedIn"
+                src="https://www.edigitalagency.com.au/wp-content/uploads/new-linkedin-logo-white-black-png.png"
+                alt="linkedIn"
+                class="resumeIcon"
               />
             </a>
           </p>
@@ -39,9 +32,9 @@ function Resume() {
           <h2 className="top-title">Proficiencies</h2>
           <ul>
             <li>
-            SDL Tridion, Adobe Experience Manager (6.5, As a cloud Service), C#.NET, ASP.NET, JAVA,<br />
+            Adobe Suite (Photoshop, Premiere Pro, After Effects, etc.),<br />
             HTML, CSS (Bootstrap, HandleBars), JavaScript, jQuery, React.js, IndexedDB,<br />
-            Node.js, Express.js, SQL, Sequelize, MongoDB, Mongoose, NoSQL, APIs, Templating.
+            Node.js, Express.js, SQL, Sequelize, MongoDB, Mongoose, NoSQL, APIs.
             </li>
           </ul>
         </div>
