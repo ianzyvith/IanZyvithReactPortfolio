@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/IanZyvithReactPortfolio/static/css/main.e82b5d38.chunk.css",
-    "main.js": "/IanZyvithReactPortfolio/static/js/main.e1457da0.chunk.js",
-    "main.js.map": "/IanZyvithReactPortfolio/static/js/main.e1457da0.chunk.js.map",
+    "main.js": "/IanZyvithReactPortfolio/static/js/main.59e2dee7.chunk.js",
+    "main.js.map": "/IanZyvithReactPortfolio/static/js/main.59e2dee7.chunk.js.map",
     "runtime-main.js": "/IanZyvithReactPortfolio/static/js/runtime-main.e1a6555d.js",
     "runtime-main.js.map": "/IanZyvithReactPortfolio/static/js/runtime-main.e1a6555d.js.map",
     "static/css/2.467b4cbb.chunk.css": "/IanZyvithReactPortfolio/static/css/2.467b4cbb.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.467b4cbb.chunk.css",
     "static/js/2.a9e467a7.chunk.js",
     "static/css/main.e82b5d38.chunk.css",
-    "static/js/main.e1457da0.chunk.js"
+    "static/js/main.59e2dee7.chunk.js"
   ]
 }
